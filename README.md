@@ -32,7 +32,9 @@ Grids are general types of plots that allow you to map plot types to rows and co
 Seaborn has many built-in capabilities for regression plots, however we won't really discuss regression until the machine learning section of the course, so we will only cover the lmplot() function for now.
 
 lmplot allows you to display linear models, but it also conveniently allows you to split up those plots based off of features, as well as coloring the hue based off of features.
-
+**********************************
+**Style and Color**
+We've shown a few times how to control figure aesthetics in seaborn, but let's now go over it formally:
 
 
 
