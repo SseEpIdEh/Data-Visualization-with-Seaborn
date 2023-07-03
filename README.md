@@ -22,3 +22,16 @@ Now let's discuss using seaborn to plot categorical data! There are a few main p
 **************
 **Matrix Plots**
 Matrix plots allow you to plot data as color-encoded matrices and can also be used to indicate clusters within the data (later in the machine learning section we will learn how to formally cluster data).
+**************
+
+**Grids**
+Grids are general types of plots that allow you to map plot types to rows and columns of a grid, this helps you create similar plots separated by features.
+
+
+
+
+
+
+
+
+
